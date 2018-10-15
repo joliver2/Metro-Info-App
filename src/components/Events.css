@@ -1,0 +1,9 @@
+.background {
+    background-image: url(../assets/images/campus.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom:100%;
+}
+.header {
+  text-align: center;
+}
